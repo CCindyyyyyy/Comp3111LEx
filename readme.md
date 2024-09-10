@@ -1,2 +1,2 @@
 Here is a readme.md file!
-![Screenshot](img1.png)
+![Screenshot](src/main/img1.png)
